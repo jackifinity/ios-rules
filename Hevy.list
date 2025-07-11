@@ -1,0 +1,10 @@
+# NAME: Hevy
+# AUTHOR: Jackie
+# REPO: git@github.com:jackifinity/ios-rules
+# UPDATED: 2025-07-11 12:58:00
+# HOST-SUFFIX: 4
+# TOTAL: 4
+HOST,api.hevyapp.com,Hevy
+HOST-SUFFIX,hevyapp.com,Hevy
+HOST-SUFFIX,amazonaws.com,Hevy
+HOST-KEYWORD,hevyapp,Hevy
